@@ -2,6 +2,9 @@
 
 - This is a Random Quote Generator app.
 
+[Netlify](https://randomquotegenerator-harshcodes.netlify.app/)
+
+![](https://img.shields.io/badge/Netlify-Link-green)
 
 ![Random Quote Generator](/images/without%20Quote.png)
 
